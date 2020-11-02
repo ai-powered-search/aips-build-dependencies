@@ -8,4 +8,4 @@ To merge part files:
 cat FILENAME.part* > FILENAME 
 
 To pull and merge a dependency by file name:
-python3 aips_dependency.py FILENAME
+python3 pull_aips_dependency.py FILENAME
